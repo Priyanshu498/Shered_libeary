@@ -1,5 +1,5 @@
 def call() {
     stage('Clone Repository') {
-        git branch: 'main', url: 'https://github.com/Pritam1705/Grafana_role.git'
+        git branch: 'main', url: 'https://github.com/Priyanshu498/tomcat.git'
     }
 }
